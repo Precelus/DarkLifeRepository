@@ -1,0 +1,12 @@
+[/Script/EngineSettings.GeneralProjectSettings]
+ProjectID=D7532D054141D01811EB5EB2740D1C09
+ProjectName=First Person BP Game Template
+
+[StartupActions]
+bAddPacks=True
+InsertPack=(PackSource="StarterContent.upack,PackName="StarterContent")
+
+[/Script/UnrealEd.ProjectPackagingSettings]
+IncludeDebugFiles=False
+BuildConfiguration=PPBC_Shipping
+
