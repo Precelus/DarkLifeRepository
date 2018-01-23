@@ -1,0 +1,127 @@
+﻿# en_lang English translation.
+# Copyright 1998-2017 Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: ru_lang\n"
+"POT-Creation-Date: 2018-01-22 20:37\n"
+"PO-Revision-Date: 2018-01-22 20:37\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	07EB447A40005D8351B2B1B924316654
+#. SourceLocation:	/Game/Menu/MenuWidget.MenuWidget_C:WidgetTree.TextBlock_176.Text
+#: /Game/Menu/MenuWidget.MenuWidget_C:WidgetTree.TextBlock_176.Text
+msgctxt ",07EB447A40005D8351B2B1B924316654"
+msgid "DARKRP"
+msgstr "DARKRP"
+
+#. Key:	3ABB31AC4D729E1756BA17A5FC014A54
+#. SourceLocation:	/Game/Menu/HostWidget.HostWidget_C:WidgetTree.TextBlock_82.Text
+#: /Game/Menu/HostWidget.HostWidget_C:WidgetTree.TextBlock_82.Text
+msgctxt ",3ABB31AC4D729E1756BA17A5FC014A54"
+msgid "OR :"
+msgstr "OR :"
+
+#. Key:	47AF01CB45A0953E8A99C99F48435BDE
+#. SourceLocation:	/Game/Menu/HostWidget.HostWidget_C:WidgetTree.TextBlock_140.Text
+#: /Game/Menu/HostWidget.HostWidget_C:WidgetTree.TextBlock_140.Text
+msgctxt ",47AF01CB45A0953E8A99C99F48435BDE"
+msgid "JOIN"
+msgstr "JOIN"
+
+#. Key:	4FA2BDD0484AA6F8AAD1BBB2BF15DB54
+#. SourceLocation:	/Game/Menu/MenuWidget.MenuWidget_C:WidgetTree.TextBlock_51.Text
+#: /Game/Menu/MenuWidget.MenuWidget_C:WidgetTree.TextBlock_51.Text
+msgctxt ",4FA2BDD0484AA6F8AAD1BBB2BF15DB54"
+msgid "Based on"
+msgstr "Based on"
+
+#. Key:	5AD4172F414BBA1F996BD4A6940E9025
+#. SourceLocation:	/Game/Menu/ConnectHostWidget.ConnectHostWidget_C:WidgetTree.TextBlock_49.Text
+#: /Game/Menu/ConnectHostWidget.ConnectHostWidget_C:WidgetTree.TextBlock_49.Text
+msgctxt ",5AD4172F414BBA1F996BD4A6940E9025"
+msgid "HOST"
+msgstr "HOST"
+
+#. Key:	5BCD271842B6F80E905EB290DD0C676C
+#. SourceLocation:	/Game/FirstPersonBP/Blueprints/UI.UI_C:WidgetTree.TextBlock_10.Text
+#: /Game/FirstPersonBP/Blueprints/UI.UI_C:WidgetTree.TextBlock_10.Text
+msgctxt ",5BCD271842B6F80E905EB290DD0C676C"
+msgid "HP :"
+msgstr "HP :"
+
+#. Key:	5F53E4C247CC0EFEED5EE685886D82ED
+#. SourceLocation:	/Game/Menu/HostWidget.HostWidget_C:WidgetTree.TextBlock_44.Text
+#: /Game/Menu/HostWidget.HostWidget_C:WidgetTree.TextBlock_44.Text
+msgctxt ",5F53E4C247CC0EFEED5EE685886D82ED"
+msgid "HOST"
+msgstr "HOST"
+
+#. Key:	711C94734EDAC9A39816D59480EE6E56
+#. SourceLocation:	/Game/FirstPersonBP/Maps/Landscape_lvl.Landscape_lvl:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
+#: /Game/FirstPersonBP/Maps/Landscape_lvl.Landscape_lvl:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
+msgctxt ",711C94734EDAC9A39816D59480EE6E56"
+msgid "godsim.exe stopped working"
+msgstr "godsim.exe stopped working"
+
+#. Key:	7679A0324D08BD356A9FF996FED26511
+#. SourceLocation:	/Game/FirstPersonBP/Blueprints/UI.UI_C:WidgetTree.TextBlock_147.Text
+#: /Game/FirstPersonBP/Blueprints/UI.UI_C:WidgetTree.TextBlock_147.Text
+msgctxt ",7679A0324D08BD356A9FF996FED26511"
+msgid "Job:"
+msgstr "Job:"
+
+#. Key:	910A1F224A1F316846035D80536F7177
+#. SourceLocation:	/Game/FirstPersonBP/Blueprints/UI.UI_C:WidgetTree.HP_indicator.Text
+#: /Game/FirstPersonBP/Blueprints/UI.UI_C:WidgetTree.HP_indicator.Text
+msgctxt ",910A1F224A1F316846035D80536F7177"
+msgid "100"
+msgstr "100"
+
+#. Key:	B48822D04D8A96D1FB7049851B41E135
+#. SourceLocation:	/Game/Menu/ConnectHostWidget.ConnectHostWidget_C:WidgetTree.ip_bx.Text
+#: /Game/Menu/ConnectHostWidget.ConnectHostWidget_C:WidgetTree.ip_bx.Text
+msgctxt ",B48822D04D8A96D1FB7049851B41E135"
+msgid "127.0.0.1"
+msgstr "127.0.0.1"
+
+#. Key:	B9AC84154E36EB739F85E5A255AEF646
+#. SourceLocation:	/Game/Menu/HostWidget.HostWidget_C:WidgetTree.EditableTextBox_19.HintText
+#: /Game/Menu/HostWidget.HostWidget_C:WidgetTree.EditableTextBox_19.HintText
+msgctxt ",B9AC84154E36EB739F85E5A255AEF646"
+msgid "IP ADRESS"
+msgstr "IP ADRESS"
+
+#. Key:	C0129E5447AD0E89D64A5BB208C4ECD2
+#. SourceLocation:	/Game/Menu/MenuWidget.MenuWidget_C:WidgetTree.TextBlock_234.Text
+#: /Game/Menu/MenuWidget.MenuWidget_C:WidgetTree.TextBlock_234.Text
+msgctxt ",C0129E5447AD0E89D64A5BB208C4ECD2"
+msgid "Start game"
+msgstr "Start game"
+
+#. Key:	CE8A5B9141DFF1423E78BAB008936ED8
+#. SourceLocation:	/Game/serverinfo.serverinfo_C:WidgetTree.TextBlock_46.Text
+#: /Game/serverinfo.serverinfo_C:WidgetTree.TextBlock_46.Text
+msgctxt ",CE8A5B9141DFF1423E78BAB008936ED8"
+msgid "Accept"
+msgstr "Accept"
+
+#. Key:	D4B1EF924B1D3EE7C80F40BE1F3C6B37
+#. SourceLocation:	/Game/FirstPersonBP/Blueprints/UI.UI_C:WidgetTree.TextBlock_113.Text
+#: /Game/FirstPersonBP/Blueprints/UI.UI_C:WidgetTree.TextBlock_113.Text
+msgctxt ",D4B1EF924B1D3EE7C80F40BE1F3C6B37"
+msgid "0/0"
+msgstr "0/0"
+
+#. Key:	E56B4306438AFE307EFDCFB49E328067
+#. SourceLocation:	/Game/Menu/ConnectHostWidget.ConnectHostWidget_C:WidgetTree.TextBlock_78.Text
+#: /Game/Menu/ConnectHostWidget.ConnectHostWidget_C:WidgetTree.TextBlock_78.Text
+msgctxt ",E56B4306438AFE307EFDCFB49E328067"
+msgid "JOIN"
+msgstr "JOIN"
+
